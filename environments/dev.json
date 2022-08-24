@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AZURE_COSMOS_DATABASE",
+    "value": "${COSMOS_DATABASE}",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_COSMOS_KEY",
+    "value": "${COSMOS_KEY}",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_COSMOS_URI",
+    "value": "${COSMOS_URI}",
+    "slotSetting": true
+  }
+]
