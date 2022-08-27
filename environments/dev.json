@@ -1,17 +1,17 @@
 [
   {
-    "name": "AZURE_COSMOS_DATABASE",
-    "value": "${COSMOS_DATABASE}",
+    "name": "COSMOS_DATABASE",
+    "value": "testcosmosdb099",
     "slotSetting": true
   },
   {
-    "name": "AZURE_COSMOS_KEY",
-    "value": "${COSMOS_KEY}",
+    "name": "COSMOS_KEY",
+    "value": "@Microsoft.KeyVault(SecretUri=https://testkv0999.azure.net/secrets/cosmos-primary-key/43fd27d5e7de4e40a948b7f2319f838c)",
     "slotSetting": true
   },
   {
-    "name": "AZURE_COSMOS_URI",
-    "value": "${COSMOS_URI}",
+    "name": "COSMOS_URI",
+    "value": "https://testcosmosdb099.documents.azure.com:443/",
     "slotSetting": true
   }
 ]
