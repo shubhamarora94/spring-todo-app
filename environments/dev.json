@@ -6,7 +6,7 @@
   },
   {
     "name": "COSMOS_KEY",
-    "value": "@Microsoft.KeyVault(SecretUri=https://testkv0999.azure.net/secrets/cosmos-primary-key/43fd27d5e7de4e40a948b7f2319f838c)",
+    "value": "@Microsoft.KeyVault(SecretUri=https://testKV0999.azure.net/secrets/cosmos-primary-key/43fd27d5e7de4e40a948b7f2319f838c)",
     "slotSetting": true
   },
   {
